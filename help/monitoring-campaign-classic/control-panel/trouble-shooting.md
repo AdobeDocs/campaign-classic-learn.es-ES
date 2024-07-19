@@ -8,8 +8,8 @@ activity: use
 team: PM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 83%
+source-wordcount: '315'
+ht-degree: 79%
 
 ---
 
@@ -29,12 +29,12 @@ el usuario debe localizar su identificador de organización de IMS (xxx). El adm
 los usuarios no verán los vínculos hasta que se añadan como usuarios al Perfil de productos _Campaign-xxx-Administradores/Admin_.
 
 **Qué hacer:**
-el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como “usuario.
+el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como &quot;usuario&quot;.
 
 ### Síntoma: una instancia no aparece en la lista de [!UICONTROL Control Panel]
 
 **Causa:**
-Es muy probable que el usuario deba añadirse como &quot;usuario&quot; al perfil de producto _Campaign-xxx-Administradores/Admin_ para la instancia que falta
+Es muy probable que el usuario deba añadirse como &quot;usuario&quot; al Perfil de productos _Campaign-xxx-Administradores/Admin_ para la instancia que falta
 
 **Qué hacer:**
 el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como “usuario”.

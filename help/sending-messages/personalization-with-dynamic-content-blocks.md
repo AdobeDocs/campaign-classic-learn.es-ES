@@ -1,6 +1,6 @@
 ---
 title: Personalización de correos electrónicos con bloques de contenido dinámico
-description: Este tutorial muestra cómo personalizar el contenido de envío, utilizar el código JavaScript en las plantillas de envío y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
+description: Este tutorial muestra cómo personalizar el contenido de la entrega, utilizar el código JavaScript en las plantillas de entrega y estandarizar y compartir bloques de contenido en diferentes plantillas de entrega.
 feature: Personalization
 jira: KT-1559
 doc-type: feature video
@@ -8,8 +8,8 @@ activity: use
 team: TM
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 66%
+source-wordcount: '258'
+ht-degree: 71%
 
 ---
 
@@ -23,7 +23,7 @@ En Adobe Campaign, puede personalizar el contenido o el aspecto de los mensajes 
 3 - Insertar campos de personalización dinámicos.\
 4 - Crear contenido condicional.
 
-Este tutorial muestra cómo personalizar el contenido de envío, utilizar el código JavaScript en las plantillas de envío y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
+Este tutorial muestra cómo personalizar el contenido de la entrega, utilizar el código JavaScript en las plantillas de entrega y estandarizar y compartir bloques de contenido en diferentes plantillas de entrega.
 
 ## Crear y añadir un bloque de personalización a un envío
 
@@ -43,4 +43,4 @@ Al configurar los campos de contenido condicionados, puede crear una personaliza
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
-Para obtener más información sobre Personalización, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+Para obtener más información acerca de Personalization, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

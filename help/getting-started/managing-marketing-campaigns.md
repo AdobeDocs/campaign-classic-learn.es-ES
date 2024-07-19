@@ -13,12 +13,12 @@ exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 14%
+ht-degree: 19%
 
 ---
 
 # Administración de campañas de marketing
 
-Comprender los conceptos clave de [!UICONTROL Adobe Campaign] que le ayudan a planificar, ejecutar y medir de manera eficaz las campañas de marketing entre canales.
+Comprenda los conceptos clave de [!UICONTROL Adobe Campaign] que le ayudan a planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on){transcript=true}

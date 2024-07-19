@@ -13,12 +13,12 @@ exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 61%
+ht-degree: 65%
 
 ---
 
 # Refinamiento de destinatarios combinando resultados de consultas
 
-Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo mediante **[!UICONTROL intersection]** o el **[!UICONTROL union]** actividades.
+Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo mediante las actividades **[!UICONTROL intersection]** o **[!UICONTROL union]**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
