@@ -9,9 +9,9 @@ mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-classic-learn.es-ES
 index: true
 source-git-commit: 8b3e7a5dcc8b55cbc0fdb5c4220dc1329e320259
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '128'
+ht-degree: 100%
 
 ---
 
