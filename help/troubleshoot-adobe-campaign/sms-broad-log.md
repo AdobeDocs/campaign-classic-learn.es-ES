@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo depurar el problema del estado del registro general de SMS que se muestra cuando se envía un SMS a un número incorrecto.
 
->[!VIDEO](https://video.tv.adobe.com/v/335980?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422577?quality=12&learn=on&captions=spa){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda a solucionar problemas de envío de correos electrónicos en Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/343087?quality=12&learn=on&captions=spa){transcript=true}

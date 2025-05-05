@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo aumentar el número de flujos de trabajo de la campaña que se pueden ejecutar en la instancia en paralelo.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436577?quality=12&learn=on&captions=spa){transcript=true}

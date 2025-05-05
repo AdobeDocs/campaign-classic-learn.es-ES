@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar un envío para las pruebas A/B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420566?quality=12&learn=on&captions=spa){transcript=true}

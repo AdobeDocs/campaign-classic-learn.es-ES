@@ -33,4 +33,4 @@ Una plantilla puede incluir sistemáticamente:
 
 En el siguiente vídeo se muestra cómo configurar una plantilla para un envío ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27533?quality=12&learn=on&captions=spa){transcript=true}

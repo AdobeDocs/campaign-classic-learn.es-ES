@@ -17,4 +17,4 @@ ht-degree: 100%
 # Mensajes desactivados que activan correos electrónicos
 
 Obtenga información sobre cómo detener los correos electrónicos de mensajes desactivados
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437114?quality=12&learn=on&captions=spa){transcript=true}

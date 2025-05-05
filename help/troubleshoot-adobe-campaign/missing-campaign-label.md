@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo corregir la etiqueta de campaña no presente en Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436809?quality=12&learn=on&captions=spa){transcript=true}

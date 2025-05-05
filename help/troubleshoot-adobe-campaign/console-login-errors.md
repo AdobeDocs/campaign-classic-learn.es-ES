@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo corregir los errores encontrados durante el inicio de sesión en la consola
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437769?quality=12&learn=on&captions=spa){transcript=true}

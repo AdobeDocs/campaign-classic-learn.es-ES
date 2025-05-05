@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo corregir errores o advertencias que se muestran durante el proceso de inicio de sesión en Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436217?quality=12&learn=on&captions=spa){transcript=true}

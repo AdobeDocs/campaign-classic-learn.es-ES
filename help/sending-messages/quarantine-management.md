@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo funciona la administración de cuarentenas en Adobe Campaign y aprenda a gestionar las direcciones en cuarentena.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415818?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421897?quality=12&learn=on&captions=spa){transcript=true}

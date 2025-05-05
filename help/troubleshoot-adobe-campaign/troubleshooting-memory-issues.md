@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo solucionar errores de falta de memoria para instalaciones locales.
 
->[!VIDEO](https://video.tv.adobe.com/v/335891?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422558?quality=12&learn=on&captions=spa){transcript=true}

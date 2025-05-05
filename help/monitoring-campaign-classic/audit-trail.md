@@ -41,6 +41,6 @@ La [!UICONTROL Audit Trail] registra las acciones del operador de lista y regist
 
 El siguiente vídeo describe dónde acceder a los registros de pista de auditoría y qué configuración se puede realizar.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33949?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información, consulte la [Documentación de la pista de auditoría](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=es).

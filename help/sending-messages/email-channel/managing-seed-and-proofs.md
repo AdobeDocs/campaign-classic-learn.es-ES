@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En este vídeo aprenderá a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35551?quality=12&learn=on&captions=spa){transcript=true}

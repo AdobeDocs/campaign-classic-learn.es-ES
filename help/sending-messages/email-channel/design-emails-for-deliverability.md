@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Aprenda a aplicar las prácticas recomendadas de envío a su campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452561?quality=12&learn=on&captions=spa){transcript=true}
 
 ## Recursos adicionales
 

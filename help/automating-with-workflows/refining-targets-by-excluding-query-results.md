@@ -21,4 +21,4 @@ ht-degree: 83%
 
 Aprenda a refinar el destino aplicando **[!UICONTROL standard exclusion]** a un flujo de trabajo. También aprenderá a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326458?quality=12&learn=on&captions=spa){transcript=true}

@@ -19,4 +19,4 @@ ht-degree: 100%
 Obtenga información sobre cómo resolver el problema cuando un flujo de trabajo deja de ejecutarse, cuando el usuario está deshabilitado en Adobe Campaign.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335988?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422508?quality=12&learn=on&captions=spa){transcript=true}

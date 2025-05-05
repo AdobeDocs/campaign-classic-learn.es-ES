@@ -21,6 +21,6 @@ ht-degree: 78%
 
 Obtenga información sobre cómo comprobar si el canal de la aplicación móvil está instalado en la instancia y cómo instalarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340427?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información acerca de la configuración del canal de aplicaciones móviles, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=es#installing-package-ios).

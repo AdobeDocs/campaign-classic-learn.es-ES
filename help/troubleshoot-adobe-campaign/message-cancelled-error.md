@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo resolver el error de mensaje cancelado (representación no disponible) en un envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422553?quality=12&learn=on&captions=spa){transcript=true}

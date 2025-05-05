@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En esta lección se explica la interfaz de usuario principal de Adobe Campaign Classic y se muestra cómo desplazarse por las funcionalidades principales.
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39532?quality=12&learn=on&captions=spa){transcript=true}

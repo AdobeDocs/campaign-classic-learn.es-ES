@@ -21,5 +21,5 @@ ht-degree: 70%
 
 Comprenda el concepto de listas en Adobe Campaign Classic y aprenda a crear una lista utilizando la actividad de lista de actualización en un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326566?quality=12&learn=on&captions=spa){transcript=true}
 

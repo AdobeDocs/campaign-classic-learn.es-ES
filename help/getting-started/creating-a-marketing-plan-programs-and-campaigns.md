@@ -22,4 +22,4 @@ ht-degree: 100%
 Obtenga información sobre cómo crear un plan, un programa y una campaña de marketing, definir propiedades para una campaña y comprender cómo usar la programación.
 El vídeo le guía a través de un ejercicio que puede seguir.
 
->[!VIDEO](https://video.tv.adobe.com/v/35132?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326558?quality=12&learn=on&captions=spa){transcript=true}

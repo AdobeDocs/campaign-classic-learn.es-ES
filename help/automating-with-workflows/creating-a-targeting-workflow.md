@@ -20,7 +20,7 @@ ht-degree: 28%
 
 Adobe Campaign utiliza flujos de trabajo para llevar a cabo campañas de segmentación, crear campañas o ejecutar procesos técnicos de Adobe Campaign. En este vídeo, nos centraremos en los flujos de trabajo de objetivos. Los flujos de trabajo de objetivos permiten crear varios objetivos de envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27499?quality=12&learn=on&captions=spa){transcript=true}
 
 Ver la documentación [sobre flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es)
 y [acerca de las actividades de segmentación](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=es) para obtener más información.

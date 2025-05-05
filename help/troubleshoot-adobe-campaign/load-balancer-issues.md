@@ -16,4 +16,4 @@ ht-degree: 100%
 # Problemas del equilibrador de carga
 
 Obtenga información sobre cómo solucionar los problemas del equilibrador de carga al reiniciar la instancia
->[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437494?quality=12&learn=on&captions=spa){transcript=true}

@@ -22,6 +22,6 @@ ht-degree: 51%
 Las aprobaciones permiten a los operadores tomar las decisiones que rigen los flujos de trabajo o confirmar su ejecución continuada.
 Obtenga información sobre cómo configurar aprobaciones y una campaña, y cómo diferenciar entre aprobaciones de envío y de flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/341421?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información sobre la definición de aprobaciones, consulte la [Documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=es#sending-emails).

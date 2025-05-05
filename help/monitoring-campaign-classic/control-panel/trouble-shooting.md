@@ -41,11 +41,11 @@ el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Ad
 
 ### Vídeos útiles
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34929?quality=12&learn=on&captions=spa){transcript=true}
 
 *Comprobación del identificador de organización de IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34797?quality=12&learn=on&captions=spa){transcript=true}
 
 *Cómo añadir un administrador a los administradores de perfil de productos para poder utilizarlo [!UICONTROL Control panel] (1:03 min)*
 

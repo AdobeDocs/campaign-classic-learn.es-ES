@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Aprenda a aplicar zonas horarias a las actividades de flujo de trabajo programadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443850?quality=12&learn=on&captions=spa){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 88%
 
 Comprenda la diferencia entre campañas multicanal y en canales múltiples, y cuáles son los casos de uso de campañas multicanal y en canales múltiples.
 
->[!VIDEO](https://video.tv.adobe.com/v/330984?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345270?quality=12&learn=on&captions=spa){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo filtrar para flujos de trabajo en los que la condición “keep result” está establecida en verdadera.
 
->[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422562?quality=12&learn=on&captions=spa){transcript=true}

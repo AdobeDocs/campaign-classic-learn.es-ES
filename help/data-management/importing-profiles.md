@@ -20,4 +20,4 @@ ht-degree: 6%
 
 En este vídeo se explica cómo importar perfiles en Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328396?quality=12&learn=on&captions=spa){transcript=true}

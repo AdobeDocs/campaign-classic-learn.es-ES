@@ -29,6 +29,6 @@ Este tutorial explica cómo aprovechar el conector [!DNL Snowflake] en Adobe Cam
 * Buscar datos e informar sobre ellos
 * Cómo exportar datos en listas y crear filtros de direccionamiento en tiempo real
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35885?quality=12&learn=on&captions=spa){transcript=true}
 
 Para obtener más información sobre cómo configurar el acceso al Snowflake, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=es#installing-campaign-classic).

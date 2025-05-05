@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo corregir errores de publicación para usuarios no administradores
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436710?quality=12&learn=on&captions=spa){transcript=true}

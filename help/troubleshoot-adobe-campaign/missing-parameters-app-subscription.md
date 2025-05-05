@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo añadir parámetros adicionales al RCP de suscripción de la aplicación si no se rellenan.
 
->[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422513?quality=12&learn=on&captions=spa){transcript=true}

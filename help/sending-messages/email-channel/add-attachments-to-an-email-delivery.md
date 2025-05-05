@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo añadir archivos adjuntos a un envío de correo electrónico y configurar diferentes tipos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452992?quality=12&learn=on&captions=spa){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Aprenda cómo crear un flujo de trabajo con el fin de dirigrse a los destinatarios y cómo volverlo recurrente antes de utilizar la lista en un destinatario de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27495?quality=12&learn=on&captions=spa){transcript=true}

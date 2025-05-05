@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo realizar correctamente una parada incondicional en el flujo de trabajo de la campaña
 
->[!VIDEO](https://video.tv.adobe.com/v/335887?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437450?quality=12&learn=on&captions=spa){transcript=true}

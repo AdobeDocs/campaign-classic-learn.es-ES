@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo habilitar direcciones IP para realizar solicitudes SOAP
 
->[!VIDEO](https://video.tv.adobe.com/v/335978?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422572?quality=12&learn=on&captions=spa){transcript=true}

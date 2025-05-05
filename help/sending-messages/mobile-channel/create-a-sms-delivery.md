@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear un envío de SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/330982?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441421?learn=on&captions=spa){transcript=true}
