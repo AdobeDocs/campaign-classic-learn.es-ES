@@ -23,4 +23,4 @@ Descubra los distintos tipos de contenido dinámico, y aprenda a crear y aplicar
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
 
-Para obtener más información, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).
+Para obtener más información, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=es).

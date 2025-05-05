@@ -23,4 +23,4 @@ Obtenga información sobre cómo crear y configurar páginas de aterrizaje.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
 
-Para obtener más información, consulte la documentación detallada sobre [Creación de una página de aterrizaje](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Para obtener más información, consulte la documentación detallada sobre [Creación de una página de aterrizaje](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=es).

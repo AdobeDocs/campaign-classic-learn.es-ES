@@ -24,4 +24,4 @@ Aprenda a configurar una actividad de enriquecimiento basada en la información 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on){transcript=true}
 
-Para obtener más información sobre el enriquecimiento, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
+Para obtener más información sobre el enriquecimiento, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=es)
