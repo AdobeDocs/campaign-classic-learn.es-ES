@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -57,14 +57,14 @@ ht-degree: 100%
       + [Introducción a las notificaciones push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=es)
    + Correo directo {#direct-mail}
       + [Creación de envíos de correo directo](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
-   + Uso de plantillas de envíos{#using-delivery-templates}
+   + Uso de plantillas de envío{#using-delivery-templates}
       + [Configuración de una plantilla de envíos](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Implementación de una plantilla de envíos por correo electrónico ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Administración de fatiga{#fatigue-management}
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Monitorización de mensajes {#monitoring-messages}
+   + Supervisión de mensajes {#monitoring-messages}
       + [Comprensión de la administración de cuarentenas](/help/sending-messages/quarantine-management.md)
    + [Configuración y administración de servicios de suscripción](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organización de campañas {#orchestration}
@@ -88,11 +88,11 @@ ht-degree: 100%
    + [Segmentación de datos](/help/data-management/data-segmentation.md)
    + [Administración de aprobaciones](/help/automating-with-workflows/managing-approvals.md)
    + [Aprenda de sus compañeros: prácticas recomendadas de flujo de trabajo](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Configurar las páginas de aterrizaje {#landing-pages}
-   + [Configurar las páginas de aterrizaje](/help/designing-content/configure-landingpages.md)
++ Configurar las páginas de destino {#landing-pages}
+   + [Configurar las páginas de destino](/help/designing-content/configure-landingpages.md)
    + [Crear un centro de preferencias](/help/designing-content/create-a-preference-center.md)
 + [Creación de una encuesta](/help/designing-content/create-a-survey.md)
-+ Monitorización {#monitoring}
++ Supervisar {#monitoring}
    + [Mapa de calor del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
 + Administración de datos {#data-management}
@@ -100,7 +100,7 @@ ht-degree: 100%
 + Integrar {#integrating}
    + [Integración con Adobe Target](/help/integrations/target-integration.md)
    + [Integración con Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Administración {#administrating}
++ Administrar {#administrating}
    + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}
