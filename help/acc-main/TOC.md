@@ -6,9 +6,9 @@ user-guide-description: Vídeos y tutoriales de Adobe Campaign Classic versión 
 breadcrumb-title: Tutoriales de Campaign Classic versión 7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '415'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ ht-degree: 95%
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Solución de problemas de envío de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Adición de archivos adjuntos a un envío de correo electrónico](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
-      + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Diseño de correos electrónicos con la entregabilidad en mente](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Maximice el retorno de la inversión del correo electrónico y las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
       + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + Canal de SMS {#sms-channel}
@@ -64,7 +64,7 @@ ht-degree: 95%
    + Administración de fatiga{#fatigue-management}
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Supervisión de mensajes {#monitoring-messages}
+   + Monitorización de mensajes {#monitoring-messages}
       + [Comprensión de la administración de cuarentenas](/help/sending-messages/quarantine-management.md)
    + [Configuración y administración de servicios de suscripción](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organización de campañas {#orchestration}
@@ -88,8 +88,8 @@ ht-degree: 95%
    + [Segmentación de datos](/help/data-management/data-segmentation.md)
    + [Administración de aprobaciones](/help/automating-with-workflows/managing-approvals.md)
    + [Aprenda de sus compañeros: prácticas recomendadas de flujo de trabajo](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Configurar las páginas de destino {#landing-pages}
-   + [Configurar las páginas de destino](/help/designing-content/configure-landingpages.md)
++ Configuración de las páginas de aterrizaje {#landing-pages}
+   + [Configuración de las páginas de aterrizaje](/help/designing-content/configure-landingpages.md)
    + [Crear un centro de preferencias](/help/designing-content/create-a-preference-center.md)
 + [Creación de una encuesta](/help/designing-content/create-a-survey.md)
 + Supervisar {#monitoring}
@@ -97,10 +97,10 @@ ht-degree: 95%
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
 + Administración de datos {#data-management}
    + [Datos de consulta](/help/data-management/query-data.md)
-+ Integrar {#integrating}
++ Integración {#integrating}
    + [Integración con Adobe Target](/help/integrations/target-integration.md)
    + [Integración con Dynamics 365](/help/integrations/dynamics365-integration.md)
-+ Administrar {#administrating}
++ Administración {#administrating}
    + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}
