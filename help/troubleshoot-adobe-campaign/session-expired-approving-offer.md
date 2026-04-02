@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo resolver el problema de que la sesión caduque al aprobar una oferta.
 
->[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422548?captions=spa&quality=12&learn=on){transcript=true}

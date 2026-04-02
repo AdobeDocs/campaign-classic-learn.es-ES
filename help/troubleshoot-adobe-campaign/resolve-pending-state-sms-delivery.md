@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo resolver el problema de un envío de SMS en el estado pendiente para la cuenta externa recién creada.
 
->[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422498?captions=spa&quality=12&learn=on){transcript=true}
