@@ -7,7 +7,7 @@ breadcrumb-title: Tutoriales de Campaign Classic versión 7
 auto-video-transcripts: true
 source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
 workflow-type: ht
-source-wordcount: '415'
+source-wordcount: '485'
 ht-degree: 100%
 
 ---
@@ -46,9 +46,9 @@ ht-degree: 100%
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Solución de problemas de envío de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Adición de archivos adjuntos a un envío de correo electrónico](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
-      + [Diseño de correos electrónicos con la entregabilidad en mente](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Maximice el retorno de la inversión del correo electrónico y las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
-      + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
+      + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
+      + [Guía de prácticas recomendadas para la entregabilidad](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + Canal de SMS {#sms-channel}
       + [Creación de un envío de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
@@ -57,7 +57,7 @@ ht-degree: 100%
       + [Introducción a las notificaciones push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=es)
    + Correo directo {#direct-mail}
       + [Creación de envíos de correo directo](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
-   + Uso de plantillas de envío{#using-delivery-templates}
+   + Uso de plantillas de envíos{#using-delivery-templates}
       + [Configuración de una plantilla de envíos](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Implementación de una plantilla de envíos por correo electrónico ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
@@ -81,7 +81,7 @@ ht-degree: 100%
    + [Refinamiento de destinatarios combinando resultados de consultas](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/automating-with-workflows/using-the-update-list-activity.md)
-   + [Administrar zonas horarias](/help/automating-with-workflows/manage-time-zones.md)
+   + [Administración de zonas horarias](/help/automating-with-workflows/manage-time-zones.md)
    + [Configuración de flujos de trabajo de validación](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configuración de actividades de enriquecimiento](/help/automating-with-workflows/enrichment-activity.md)
    + [Configurar actividades del planificador](/help/automating-with-workflows/configure-scheduler-activities.md)

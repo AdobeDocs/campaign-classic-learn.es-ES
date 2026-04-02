@@ -4,7 +4,7 @@ user-guide-description: En este tutorial, se explican los pasos necesarios para 
 breadcrumb-title: Introducción a las notificaciones push para Android
 index: true
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '84'
 ht-degree: 100%
 

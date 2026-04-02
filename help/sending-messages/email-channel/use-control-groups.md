@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 source-git-commit: 53682271ea3bc8655f3ec2621e67aadf4befd0ad
 workflow-type: ht
-source-wordcount: '93'
+source-wordcount: '131'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para aplicarlo a su envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449973?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >Si hay varios envíos en el flujo de trabajo de segmentación, deberá habilitar la configuración del grupo de control tanto a nivel de envío como en la configuración de la campaña.

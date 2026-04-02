@@ -11,8 +11,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '78'
+workflow-type: ht
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 En el siguiente vídeo se explica cómo descargar e instalar la consola del cliente de Adobe Campaign, crear y administrar las conexiones a varios entornos y comprobar el acceso a la consola del cliente de Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/38273?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12&learn=on){transcript=true}

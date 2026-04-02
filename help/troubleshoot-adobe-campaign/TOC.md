@@ -7,9 +7,9 @@ feature: Overview
 role: Admin
 level: Experienced
 source-git-commit: 5a07e5b566e2d8b2340c159a174b4487b444187e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '166'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 # Solución de problemas de Adobe Campaign {#troubleshooting}
 
 + [Solución de problemas de Adobe Campaign: información general](/help/troubleshoot-adobe-campaign/overview.md)
-+ Inicio de sesión y consola de cliente {#login-and-client-console}
++ Inicio de sesión y consola del cliente {#login-and-client-console}
    + [Errores de secuencia de comandos o advertencias que se muestran durante el inicio de sesión](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [Corrección de errores de inicio de sesión en la consola](/help/troubleshoot-adobe-campaign/console-login-errors.md)
    + [Corrección de ID cero](/help/troubleshoot-adobe-campaign/fixing-zero-id.md)

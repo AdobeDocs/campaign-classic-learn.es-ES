@@ -7,8 +7,8 @@ type: Troubleshooting
 jira: KT-8428
 exl-id: 9cce6bfa-26e8-416a-bf98-96cd9b5d02ed
 source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
-workflow-type: tm+mt
-source-wordcount: '32'
+workflow-type: ht
+source-wordcount: '30'
 ht-degree: 100%
 
 ---
@@ -16,4 +16,4 @@ ht-degree: 100%
 # Problemas del equilibrador de carga
 
 Obtenga información sobre cómo solucionar los problemas del equilibrador de carga al reiniciar la instancia
->[!VIDEO](https://video.tv.adobe.com/v/3437494?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335984?quality=12&learn=on){transcript=true}

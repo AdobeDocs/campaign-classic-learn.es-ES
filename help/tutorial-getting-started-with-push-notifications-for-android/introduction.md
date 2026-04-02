@@ -12,12 +12,12 @@ recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: b56c0af81ed73fa06fe4846d0794167d35a26305
 workflow-type: ht
-source-wordcount: '355'
+source-wordcount: '388'
 ht-degree: 100%
 
 ---
 
-# Introducción a las notificaciones push para Android, presentación
+# Introducción a las notificaciones push para Android
 
 Adobe Campaign permite enviar notificaciones [!DNL push] personalizadas y segmentadas a dispositivos móviles [!DNL iOS] y [!DNL Android]. En este tutorial, se explican los pasos necesarios para enviar notificaciones [!DNL push] de Adobe Campaign a una aplicación de [!DNL Android].
 
@@ -35,13 +35,13 @@ Antes de empezar, deberá tener lo siguiente:
 
    También puede utilizar el SDK de Experience Platform Mobile. Para obtener más información, vea el vídeo del tutorial:
 
-   [Configuración del canal push mediante el SDK de Experience Platform Mobile](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=es)
+   [Configuración del canal push mediante el SDK para móviles de Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=es)
 
 2) El paquete **[!DNL Mobile App channel]instalado**
 
    El paquete [!DNL Mobile App channel] debe estar instalado en su instancia [!DNL Campaign]. El siguiente vídeo explica cómo comprobar si [!DNL Mobile App channel] está instalado en la instancia y, en caso contrario, cómo instalarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/340427?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
 ## Información general del tutorial
 
