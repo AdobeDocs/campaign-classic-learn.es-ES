@@ -5,10 +5,10 @@ user-guide-title: Tutoriales de Adobe Campaign Classic versión 7
 user-guide-description: Vídeos y tutoriales de Adobe Campaign Classic versión 7.
 breadcrumb-title: Tutoriales de Campaign Classic versión 7
 auto-video-transcripts: true
-source-git-commit: 6a43734b768f5bf8b3f6c605118a3c67e24d9cd3
-workflow-type: ht
+source-git-commit: 22e97df9f7f13f03a1b0a2830b4a2b62c752c731
+workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -99,7 +99,7 @@ ht-degree: 100%
    + [Datos de consulta](/help/data-management/query-data.md)
 + Integración {#integrating}
    + [Integración con Adobe Target](/help/integrations/target-integration.md)
-   + [Integración con Dynamics 365](/help/integrations/dynamics365-integration.md)
+   + {hide-from-toc}[Integrar con Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administración {#administrating}
    + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
