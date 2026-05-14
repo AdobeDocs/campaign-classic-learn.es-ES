@@ -9,15 +9,22 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/h-mumZtr85gMtQLAUXazGlP-6R-8YQYc7ejDn-KesWg
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 71%
+source-wordcount: 47
+ht-degree: 70%
 
 ---
 
 # Configuración del canal push mediante el SDK para móviles de Experience Platform
 
-En este vídeo se explica cómo configurar e instalar el SDK de Adobe Experience Platform Mobile.
+En este vídeo se explica cómo configurar e instalar Adobe Experience Platform Mobile SDK.
 
->[!VIDEO](https://video.tv.adobe.com/v/326582?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326582?captions=spa&quality=12&learn=on){transcript=true}
