@@ -9,12 +9,17 @@ activity: setup
 team: DOC
 role: Developer, Admin
 level: Beginner
-last-substantial-update: 2023-03-10T00:00:00Z
+last-substantial-update: 2023-03-10T00:00:00.000Z
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+TQID: https://experienceleague.adobe.com/KJfh79oq5Gd-Nv3JzzQaeo9ELztGw-ZDt555RlnJPmE
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: ccbe1ae144ce2079b11103b9b8a9344fed56cbd2
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 20%
+source-wordcount: 61
+ht-degree: 13%
 
 ---
 
@@ -22,6 +27,6 @@ ht-degree: 20%
 
 Aprenda a crear un centro de preferencias mediante el editor de aplicaciones web de Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/27547?quality=12&learn=on&captions=spa){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on){transcript=true}
 
-Para obtener más información, consulte la documentación detallada sobre [Creación de una página de aterrizaje](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html?lang=es).
+Para obtener más información, consulte la documentación detallada sobre [Creación de una página de aterrizaje](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
