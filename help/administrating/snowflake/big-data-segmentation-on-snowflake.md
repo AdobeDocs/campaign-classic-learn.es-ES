@@ -47,4 +47,4 @@ Aprenderá a
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
-Para obtener más información sobre cómo configurar el acceso a Snowflake, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).
+Para obtener más información sobre cómo configurar el acceso a Snowflake, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=es#installing-campaign-classic).
