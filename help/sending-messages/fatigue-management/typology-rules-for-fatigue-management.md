@@ -35,6 +35,6 @@ Las reglas de tipología permiten a los especialistas en marketing estandarizar 
 
 En este vídeo se explica cómo implementar la administración de la fatiga en Adobe Campaign Classic mediante la aplicación de reglas de tipología.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27519?captions=spa&quality=12&learn=on){transcript=true}
 
 Visite la documentación del producto para obtener más información acerca de [tipologías de campaña](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=es).

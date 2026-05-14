@@ -29,4 +29,4 @@ ht-degree: 100%
 
 Aprenda a crear una encuesta en Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423177/?captions=spa&learn=on){transcript=true}

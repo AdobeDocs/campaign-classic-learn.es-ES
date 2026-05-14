@@ -30,6 +30,6 @@ ht-degree: 68%
 
 Descubra los distintos tipos de contenido dinámico, y aprenda a crear y aplicar bloques de personalización y afirmaciones condicionales a un envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453338?captions=spa&quality=12&learn=on){transcript=true}
 
 Para obtener más información, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=es).

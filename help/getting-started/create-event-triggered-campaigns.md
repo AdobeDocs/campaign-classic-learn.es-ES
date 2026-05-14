@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Aprenda a crear una campaña activada por eventos y comprenda sus usos.
 
->[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451874?captions=spa&quality=12&learn=on){transcript=true}

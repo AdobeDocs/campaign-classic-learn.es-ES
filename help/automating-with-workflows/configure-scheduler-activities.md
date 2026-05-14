@@ -26,4 +26,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo configurar una actividad de planificador en un flujo de trabajo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447111?captions=spa&quality=12&learn=on){transcript=true}

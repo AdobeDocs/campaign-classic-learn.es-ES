@@ -28,4 +28,4 @@ ht-degree: 64%
 
 Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo mediante las actividades **[!UICONTROL intersection]** o **[!UICONTROL union]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326550?captions=spa&quality=12&learn=on){transcript=true}

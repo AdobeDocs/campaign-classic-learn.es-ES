@@ -34,6 +34,6 @@ Al configurar los campos de contenido condicionados, puede crear una personaliza
 
 Aprenda a añadir contenido condicional a un envío con el ejemplo de una newsletter en varios idiomas.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27471?captions=spa&quality=12&learn=on){transcript=true}
 
 Para obtener más información sobre personalización, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=es).

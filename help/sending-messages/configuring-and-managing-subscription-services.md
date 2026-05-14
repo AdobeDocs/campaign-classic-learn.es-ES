@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Aprenda a configurar y administrar suscripciones, y a segmentar suscriptores.
 
->[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452440?captions=spa&quality=12&learn=on){transcript=true}

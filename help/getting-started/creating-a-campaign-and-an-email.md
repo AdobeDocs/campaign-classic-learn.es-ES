@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Descubra cómo crear un envío por correo electrónico directamente desde una campaña.
 
->[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27490?captions=spa&quality=12&learn=on){transcript=true}

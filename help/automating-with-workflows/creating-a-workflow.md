@@ -31,4 +31,4 @@ Adobe Campaign incluye un módulo de flujos de trabajo que permite organizar la 
 
 En este vídeo se explica cómo crear un flujo de trabajo en Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27446?captions=spa&quality=12&learn=on){transcript=true}

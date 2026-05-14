@@ -30,4 +30,4 @@ Una lista es un conjunto estático de destinatarios que puede centrarse en accio
 
 Aprenda cómo crear un público configurando una lista de destinatarios desde Explorer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27504?captions=spa&learn=on){transcript=true}

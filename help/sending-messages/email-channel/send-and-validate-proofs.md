@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Aprenda a enviar y validar una prueba.
 
->[!VIDEO](https://video.tv.adobe.com/v/330945?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448920?captions=spa&learn=on){transcript=true}
