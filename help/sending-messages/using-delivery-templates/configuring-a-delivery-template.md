@@ -9,7 +9,7 @@ activity: use
 team: TM
 role: Admin
 level: Beginner
-original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html?lang=es
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 TQID: 'https://experienceleague.adobe.com/2dGQdUbkhtgQLHNg58I4HFbXnLpxjCWnkvIL-kbM2Hc'
 product_v2:
@@ -51,4 +51,4 @@ Una plantilla puede incluir sistemáticamente:
 
 En el siguiente vídeo se muestra cómo configurar una plantilla para un envío ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/27533?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&learn=on){transcript=true}

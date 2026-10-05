@@ -43,4 +43,4 @@ ht-degree: 56%
 
 Comprenda los informes y análisis integrados en Campaign Classic y aprenda a generar un informe de envío.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449489?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on){transcript=true}
