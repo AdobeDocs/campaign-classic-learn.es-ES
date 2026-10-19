@@ -32,7 +32,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 ---
@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Los flujos de trabajo, una potente capacidad de Adobe Campaign, le ayudan a administrar campañas y a llegar a los clientes de la forma más sencilla. Conozca y aplique las cinco prácticas recomendadas esenciales de flujo de trabajo para especialistas en marketing de Adam Wilson, Associate Director of Marketing, en LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448124?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}

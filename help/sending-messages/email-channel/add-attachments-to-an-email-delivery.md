@@ -33,7 +33,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 ---
@@ -41,4 +41,4 @@ ht-degree: 100%
 
 Obtenga información sobre cómo añadir archivos adjuntos a un envío de correo electrónico y configurar diferentes tipos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452992?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}

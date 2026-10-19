@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 source-git-commit: d4d4654e5b2dee85947373b8dcf139754844b316
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
 ---
@@ -36,4 +36,4 @@ ht-degree: 100%
 
 El mapa de calor del flujo de trabajo de Adobe Campaign consiste en una representación gráfica con códigos de color de todos los flujos de trabajo que se están ejecutando actualmente. Al proporcionar información general rápida sobre la cantidad de flujos de trabajo simultáneos, permite a los administradores de la plataforma Adobe Campaign monitorizar la carga en la instancia y planificar los flujos de trabajo en consecuencia.
 
->[!VIDEO](https://video.tv.adobe.com/v/27456?captions=spa&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12&learn=on){transcript=true}
